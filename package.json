@@ -10,7 +10,7 @@
     "test:revocation": "npx tsx --test test/revocation.test.ts",
     "test:product-merge": "npx tsx --test test/product-merge.test.ts",
     "test:products": "npx tsx --test test/products.test.ts",
-    "test:all": "npx tsx --test 'test/**/*.test.ts'"
+    "test:all": "npx tsx --test test/*.test.ts"
   },
   "devDependencies": {
     "@types/node": "^22.20.3",

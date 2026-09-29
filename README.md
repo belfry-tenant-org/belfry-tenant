@@ -22,4 +22,5 @@ npm run test:catalog
 npm run test:revocation
 npm run test:product-merge
 npm run test:products
+npm run test:all          # all test suites
 ```
